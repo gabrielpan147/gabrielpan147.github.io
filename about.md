@@ -10,18 +10,21 @@ layout: page
 
 <p>Self-motivated programmer, bugmaker, Chinese foodcooker.</p>
 
+<p>Amateur saxophone player, CrossTalker.<p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>Python</li>
 	<li>PyTorch</li>
 	<li>GitHub</li>
+	<li>Biological Image Processing</li>
 	<li>Adobe Premiere, After Effects</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
+	<li>HKCeND Homepage</li>
 	<li><a href="https://github.com/gabrielpan147">GitHub Homepage</a></li>
 	<li><a href="https://hkcend.org">HKCeND Homepage</a></li>
 </ul>

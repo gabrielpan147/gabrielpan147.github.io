@@ -1,9 +1,9 @@
 # main text of home
-name: Gabriel Pan
+name: Gabriel PAN
 bio: Alway learning, always stupid.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Gabriel PAN's personal homepage
 
 # if it's an external image, update below for true
 # better with square images
@@ -53,7 +53,7 @@ github: gabrielpan147
 email: gabep.cn@gmail.com
 
 authors:
-  johndoe:
+  gabe:
     name: Gabriel Pan
     bio: The Internationale Unites the Human Race.
     external-image: false
